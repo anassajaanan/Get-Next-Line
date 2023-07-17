@@ -4,15 +4,15 @@ Welcome to Get Next Line, a project developed as part of the curriculum at **[42
 
 ## **Table of Contents**
 
-- **[About](https://chat.openai.com/#about)**
-- **[Installation](https://chat.openai.com/#installation)**
+- **[About](#about)**
+- **[Installation](#installation)**
 - **[Usage](https://chat.openai.com/#usage)**
-- **[Function Prototype](https://chat.openai.com/#function-prototype)**
-- **[Return Value](https://chat.openai.com/#return-value)**
-- **[Example](https://chat.openai.com/#example)**
-- **[Bonus Part](https://chat.openai.com/#bonus-part)**
-- **[Contributing](https://chat.openai.com/#contributing)**
-- **[License](https://chat.openai.com/#license)**
+- **[Function Prototype](#function-prototype)**
+- **[Return Value](#return-value)**
+- **[Example](#example)**
+- **[Bonus Part](#bonus-part)**
+- **[Contributing](#contributing)**
+- **[License](#license)**
 
 ## **About**
 
