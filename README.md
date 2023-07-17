@@ -6,7 +6,7 @@ Welcome to Get Next Line, a project developed as part of the curriculum at **[42
 
 - **[About](#about)**
 - **[Installation](#installation)**
-- **[Usage](https://chat.openai.com/#usage)**
+- **[Usage](#usage)**
 - **[Function Prototype](#function-prototype)**
 - **[Return Value](#return-value)**
 - **[Example](#example)**
